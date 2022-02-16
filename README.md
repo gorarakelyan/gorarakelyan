@@ -3,7 +3,7 @@
 I'm Gor and I'm on a mission to democratize AI dev tools!
 
 <h3 align="center">
-  I help building <a href="https://github.com/aimhubio/aim">Aim</a> 🔭 
+  I am the author of <a href="https://github.com/aimhubio/aim">Aim</a> 🔭 
   <br/> 
   an easy-to-use & supercharged open-source experiment tracker</h3>
 <p align="center">
