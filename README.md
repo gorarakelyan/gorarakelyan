@@ -1,40 +1,74 @@
-## Hi there 👋  
-
-I'm Gor and I'm on a mission to democratize AI dev tools!
-
-<h3 align="center">
-  I am the author of <a href="https://github.com/aimhubio/aim">Aim</a> 🔭 
-  <br/> 
-  an easy-to-use & supercharged open-source experiment tracker</h3>
-<p align="center">
-  Aim logs your training runs, enables a beautiful UI to compare them and an API to query them programmatically.
-</p>
+## Hi there 👋  I'm Gor and I'm on a mission to democratize AI dev tools!
 
 <div align="center">
+  <h3>
+    I am the author of <a href="https://github.com/aimhubio/aim">Aim</a> 🔭 
+  </h3>
+  <p>
+    Aim is an open-source, self-hosted ML experiment tracking tool designed to handle 10,000s of training runs.
+  </p>
+  <p>
+    Aim provides a performant and beautiful UI for exploring and comparing training runs.
+    Additionally, its SDK enables programmatic access to tracked metadata — perfect for automations and Jupyter Notebook analysis.
+  </p>
+  <h3>
+    ⚡ Try it out now: <a href="https://github.com/aimhubio/aim">github.com/aimhubio/aim</a> ⚡
+  </h3>
+  
   <br/>
+  
   <kbd>
     <img width="400px" src="https://user-images.githubusercontent.com/13848158/136374529-af267918-5dc6-4a4e-8ed2-f6333a332f96.gif" />
   </kbd>
+
+  <br/>
+  <br/>
+
+  <table>
+    <tbody>
+      <tr>
+        <th>Log Metadata Across Your ML Pipeline 💾</th>
+        <th>Visualize & Compare Metadata via UI 📊</th>
+      </tr>
+      <tr>
+        <td>
+          <ul>
+            <li>ML experiments and any metadata tracking</li>
+            <li>Integration with popular ML frameworks</li>
+            <li>Easy migration from other experiment trackers</li>
+            </ul>
+          </td>
+        <td>
+          <ul>
+            <li>Metadata visualization via Aim Explorers</li>
+            <li>Grouping and aggregation</li>
+            <li>Querying using Python expressions</li>
+          </ul>
+        </td>
+      </tr>
+      <tr>
+        <th>Run ML Trainings Effectively ⚡</th>
+        <th>Organize Your Experiments 🗂️</th>
+      </tr>
+      <tr>
+        <td>
+          <ul>
+            <li>System info and resource usage tracking</li>
+            <li>Real-time alerting on training progress</li>
+            <li>Logging and configurable notifications</li>
+          </ul>
+        </td>
+        <td>
+          <ul>
+            <li>Detailed run information for easy debugging</li>
+            <li>Centralized dashboard for holistic view</li>
+            <li>Runs grouping with tags and experiments</li></ul>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+  
+  <h3>
+    Check out more at Aim's <a href="https://github.com/aimhubio/aim">public repo ➡️</a> 
+  </h3>
 </div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/13848158/154338753-34484cda-95b8-4da8-a610-7fdf198c05fd.png">
-
-<h3 align="center">
-  ⚡ Try it out: <a href="https://github.com/aimhubio/aim">github.com/aimhubio/aim</a> ⚡
-</h3>
-
-## About Aim
-
-Aim is an open-source, self-hosted ML experiment tracking tool. 
-It's good at tracking lots (1000s) of training runs and it allows you to compare them with a performant and beautiful UI.
-
-You can use not only the great Aim UI but also its SDK to query your runs' metadata programmatically. 
-That's especially useful for automations and additional analysis on a Jupyter Notebook.
-
-| Track and version ML runs | Visualize runs via beautiful UI | Query runs metadata via SDK |
-|:--------------------:|:------------------------:|:-------------------:|
-| <img width="600px" src="https://user-images.githubusercontent.com/13848158/154337794-e9310239-6614-41b3-a95b-bb91f0bb6c4f.png"> | <img width="600px" src="https://user-images.githubusercontent.com/13848158/154337788-03fe5b31-0fa3-44af-ae79-2861707d8602.png"> | <img width="600px" src="https://user-images.githubusercontent.com/13848158/154337793-85175c78-5659-4dd0-bb2d-05017278e2fa.png"> |
-
-➡️ Check out more at Aim's [public repo](https://github.com/aimhubio/aim)
